@@ -12,7 +12,7 @@ const poppins = Poppins({
 });
 
 const MartianMono = Martian_Mono({
-  variable: "--font-martin-mono",
+  variable: "--font-martian-mono",
   subsets: ["latin"],
 });
 
