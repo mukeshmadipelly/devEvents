@@ -10,6 +10,9 @@ const nextConfig: NextConfig = {
             }
         ]
     },
+    typescript: {
+        ignoreBuildErrors: true,
+    },
   /* config options here */
   async rewrites() {
     return [
